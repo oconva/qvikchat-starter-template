@@ -53,6 +53,7 @@ export const definePublicEndpoints = async () => {
    */
   defineChatEndpoint({
     endpoint: "chat-rag-inventory",
+    topic: "inventory",
     enableRAG: true,
     retriever: inventoryDataRetriever,
   });

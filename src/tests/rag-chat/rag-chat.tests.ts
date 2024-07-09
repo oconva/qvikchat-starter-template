@@ -34,6 +34,7 @@ describe("Test - Endpoint RAG Tests", () => {
         // define chat flow
         const flow = defineChatEndpoint({
           endpoint: "test-chat-open-rag",
+          topic: "inventory",
           enableRAG: true,
           retriever: await getDataRetriever({
             dataType: "csv",
