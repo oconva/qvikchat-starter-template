@@ -41,6 +41,6 @@
     "typescript-eslint": "^7.16.0"
   },
   "dependencies": {
-    "@oconva/qvikchat": "^1.0.7"
+    "@oconva/qvikchat": "^1.0.8"
   }
 }
