@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@oconva/qvikchat':
-        specifier: ^1.0.8
-        version: 1.0.8(@google-cloud/firestore@7.9.0)(@google-cloud/storage@7.11.3)(chromadb@1.8.1(openai@4.52.7))(fast-xml-parser@4.4.0)(firebase-functions@5.0.1(firebase-admin@12.2.0))(handlebars@4.7.8)(ignore@5.3.1)(jsonwebtoken@9.0.2)(openai@4.52.7)(prettier@3.3.2)(typescript@5.5.3)
+        specifier: ^1.0.9
+        version: 1.0.9(@google-cloud/firestore@7.9.0)(@google-cloud/storage@7.11.3)(chromadb@1.8.1(openai@4.52.7))(fast-xml-parser@4.4.0)(firebase-functions@5.0.1(firebase-admin@12.2.0))(handlebars@4.7.8)(ignore@5.3.1)(jsonwebtoken@9.0.2)(openai@4.52.7)(prettier@3.3.2)(typescript@5.5.3)
     devDependencies:
       '@eslint/js':
         specifier: ^9.6.0
@@ -1378,8 +1378,8 @@ packages:
     resolution: {integrity: sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg==}
     engines: {node: '>= 8'}
 
-  '@oconva/qvikchat@1.0.8':
-    resolution: {integrity: sha512-Cz1v44U0Qeac2je55kyliHRHVEIs8QRWGjWhfSeXYTAwX28KphhWby7R3gLqf9UF5ArBBkPqLObMIpwYppFdhQ==}
+  '@oconva/qvikchat@1.0.9':
+    resolution: {integrity: sha512-ezNONdXcG8mmnvi+iK3Sw9ZipQKGj9rg2xBwerKSmray2bqd9v/ISHqybXBzQYDVXI+RS+A7diU2s2p/tMlQ6Q==}
 
   '@opentelemetry/api-logs@0.49.1':
     resolution: {integrity: sha512-kaNl/T7WzyMUQHQlVq7q0oV4Kev6+0xFwqzofryC66jgGMacd0QH5TwfpbUwSTby+SdAdprAe5UKMvBw4tKS5Q==}
@@ -6230,7 +6230,7 @@ snapshots:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.17.1
 
-  '@oconva/qvikchat@1.0.8(@google-cloud/firestore@7.9.0)(@google-cloud/storage@7.11.3)(chromadb@1.8.1(openai@4.52.7))(fast-xml-parser@4.4.0)(firebase-functions@5.0.1(firebase-admin@12.2.0))(handlebars@4.7.8)(ignore@5.3.1)(jsonwebtoken@9.0.2)(openai@4.52.7)(prettier@3.3.2)(typescript@5.5.3)':
+  '@oconva/qvikchat@1.0.9(@google-cloud/firestore@7.9.0)(@google-cloud/storage@7.11.3)(chromadb@1.8.1(openai@4.52.7))(fast-xml-parser@4.4.0)(firebase-functions@5.0.1(firebase-admin@12.2.0))(handlebars@4.7.8)(ignore@5.3.1)(jsonwebtoken@9.0.2)(openai@4.52.7)(prettier@3.3.2)(typescript@5.5.3)':
     dependencies:
       '@genkit-ai/ai': 0.5.6
       '@genkit-ai/core': 0.5.6
