@@ -24,7 +24,7 @@
   "author": "Oconva <oconva.org@gmail.com> (https://github.com/oconva)",
   "license": "MIT",
   "devDependencies": {
-    "@eslint/js": "^9.8.0",
+    "@eslint/js": "^9.9.0",
     "@swc/cli": "^0.4.0",
     "@types/cors": "^2.8.17",
     "@types/eslint__js": "^8.42.3",
@@ -36,7 +36,7 @@
     "prettier": "^3.3.3",
     "ts-jest": "^29.2.4",
     "ts-node": "^10.9.2",
-    "tsx": "^4.16.5",
+    "tsx": "^4.17.0",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.0.1"
   },
